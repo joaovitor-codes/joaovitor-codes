@@ -5,8 +5,7 @@
   ### ☕ Backend Developer | 🎓 Estudante de Sistemas de Informação
   
   <p>
-    Apaixonado pelo ecossistema Java e desenvolvimento de software. <br>
-    Focado em criar soluções robustas com Spring Boot e boas práticas de arquitetura.
+    Apaixonado pelo ecossistema Java e desenvolvimento de software.
   </p>
 
   <br/>
