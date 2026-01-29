@@ -11,7 +11,7 @@
 
   <br/>
 
-  <div style="display: inline_block">
+  <div>
     <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
     <img align="center" alt="Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -21,18 +21,13 @@
   </div>
   
   <br/>
-  <br/>
 
-  <div style="display: flex; justify-content: center; gap: 10px; align-items: center; flex-wrap: wrap;">
-    <a href="https://github.com/joaovitor-codes">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitor-codes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </a>
-    
-    <a href="https://github.com/joaovitor-codes">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor-codes&layout=compact&theme=dracula&hide=html,css"/>
-    </a>
-  </div>
+  <a href="https://github.com/joaovitor-codes">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaovitor-codes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor-codes&layout=compact&theme=dracula&hide=html,css"/>
+  </a>
   
+  <br/>
   <br/>
 
   <a href="https://github.com/joaovitor-codes">
