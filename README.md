@@ -23,25 +23,25 @@
   <br/>
   <br/>
 
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/SEU_USUARIO_GITHUB">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <div style="display: flex; justify-content: center; gap: 10px; align-items: center; flex-wrap: wrap;">
+    <a href="https://github.com/joaovitor-codes">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitor-codes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </a>
     
-    <a href="https://github.com/SEU_USUARIO_GITHUB">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula&hide=html,css"/>
+    <a href="https://github.com/joaovitor-codes">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor-codes&layout=compact&theme=dracula&hide=html,css"/>
     </a>
   </div>
   
   <br/>
 
-  <a href="https://github.com/SEU_USUARIO_GITHUB">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&theme=dracula&bg_color=282a36&color=bd93f9&line=ff79c6&point=bd93f9&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <a href="https://github.com/joaovitor-codes">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovitor-codes&theme=dracula&bg_color=282a36&color=bd93f9&line=ff79c6&point=bd93f9&area=true&hide_border=true" width="100%" alt="Activity Graph" />
   </a>
 
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovitor-codes&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
