@@ -36,7 +36,7 @@
 
 ### 🚀 Sobre mim
 - 🎓 **Formação:** Graduando em Sistemas de Informação.
-- 💻 **Foco:** Desenvolvimento Backend com Java e Spring.
+- 💻 **Foco:** Desenvolvimento Backend.
 - 🌱 **Estudando:** Spring Security, APIs RESTful e Cloud.
 - 🤝 **Colaboração:** Aberto para projetos open-source e networking.
 
