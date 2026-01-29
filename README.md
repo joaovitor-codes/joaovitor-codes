@@ -4,11 +4,9 @@
   
   ### ☕ Backend Developer | 🎓 Estudante de Sistemas de Informação
   
-  <br/>
-
   <p>
     Apaixonado pelo ecossistema Java e desenvolvimento de software. <br>
-    Atualmente cursando Sistemas de Informação e aprofundando conhecimentos em arquitetura de microsserviços e Spring Boot.
+    Focado em criar soluções robustas com Spring Boot e boas práticas de arquitetura.
   </p>
 
   <br/>
@@ -25,14 +23,25 @@
   <br/>
   <br/>
 
-  <a href="https://github.com/SEU_USUARIO_GITHUB">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula"/>
-  </a>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/SEU_USUARIO_GITHUB">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </a>
+    
+    <a href="https://github.com/SEU_USUARIO_GITHUB">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula&hide=html,css"/>
+    </a>
+  </div>
   
   <br/>
+
+  <a href="https://github.com/SEU_USUARIO_GITHUB">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&theme=dracula&bg_color=282a36&color=bd93f9&line=ff79c6&point=bd93f9&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  </a>
+
+  <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
@@ -40,8 +49,8 @@
 
 ### 🚀 Sobre mim
 - 🎓 **Formação:** Graduando em Sistemas de Informação.
-- 💻 **Foco:** Desenvolvimento Backend com Java.
-- 🌱 **Estudando:** Spring Security, APIs RESTful e Boas Práticas (Clean Code).
+- 💻 **Foco:** Desenvolvimento Backend com Java e Spring.
+- 🌱 **Estudando:** Spring Security, APIs RESTful e Cloud.
 - 🤝 **Colaboração:** Aberto para projetos open-source e networking.
 
 <br/>
