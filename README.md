@@ -21,15 +21,6 @@
   </div>
   
   <br/>
-
-  <div align="center">
-    <a href="https://github.com/joaovitor-codes">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaovitor-codes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </a>
-    <a href="https://github.com/joaovitor-codes">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor-codes&layout=compact&theme=dracula&hide=html,css"/>
-    </a>
-  </div>
   
   <br/>
 
@@ -39,8 +30,6 @@
 
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovitor-codes&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
 </div>
 
 <hr/>
