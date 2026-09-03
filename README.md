@@ -3,10 +3,6 @@
   ## Olá, eu sou o João Vitor! 👋
   
   ### ☕ Backend Developer | 🎓 Estudante de Sistemas de Informação
-  
-  <p>
-    Apaixonado pelo ecossistema Java e desenvolvimento de software.
-  </p>
 
   <br/>
 
