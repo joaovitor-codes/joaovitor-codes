@@ -52,6 +52,7 @@ Estudante do 7º período de **Sistemas de Informação** (Unifacol, conclusão 
 | [**Plataforma de Acompanhamento Nutricional**](https://github.com/joaovitor-codes/Fabrica-de-Software) | API que conecta nutricionistas e pacientes: anamnese, planos alimentares, receitas com curadoria e sugestão de substitutos com IA. Testes, CI no GitHub Actions e Docker. | NestJS · Prisma · PostgreSQL · Redis · OpenAI |
 | [**PopBank**](https://github.com/joaovitor-codes/PopBank) | API bancária com contas, carteira digital, transferências e estorno. Autenticação JWT com perfis de acesso e teste de carga. | Java · Spring Boot · Spring Security · PostgreSQL |
 | [**API Restaurant Rank**](https://github.com/joaovitor-codes/API-RestaurantRank) | API de avaliação e ranking de restaurantes, aplicando SOLID e os padrões Observer e Strategy. | Java · Spring Boot · JPA |
+| [**ExchangeApi**](https://github.com/joaovitor-codes/ExchangeApi) | API de conversão de moedas com cotações em tempo real consumidas da AwesomeAPI, arquitetura em camadas e tratamento global de exceções. | Java · Spring Boot · Java HTTP Client |
 
 ---
 
