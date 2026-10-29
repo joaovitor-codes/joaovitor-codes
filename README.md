@@ -59,8 +59,6 @@ Estudante do 7º período de **Sistemas de Informação** (Unifacol, conclusão 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovitor-codes&theme=dracula&bg_color=282a36&color=bd93f9&line=ff79c6&point=bd93f9&area=true&hide_border=true" width="100%" alt="Gráfico de atividade" />
-
 <img src="https://streak-stats.demolab.com?user=joaovitor-codes&theme=dracula&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 
 </div>
