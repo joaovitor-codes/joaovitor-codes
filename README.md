@@ -19,11 +19,6 @@ APIs REST, modelagem de dados e arquitetura de back-end.
 
 Estudante do 7º período de **Sistemas de Informação** (Unifacol, conclusão em junho/2027), com foco em **desenvolvimento back-end**. Trabalho principalmente com **TypeScript, NestJS, Prisma e PostgreSQL** e também desenvolvo em **Java com Spring Boot**.
 
-- 🧭 **Líder técnico** de uma equipe de 5 pessoas na Fábrica de Software: arquitetura, modelagem do banco, integração com IA e pipeline de CI.
-- 💼 **Freelancer** na migração de uma API de Python para **C#/.NET**.
-- 🎓 **Estágio supervisionado** desenvolvendo a API de um sistema de avaliação docente com NestJS.
-- 🌱 **Estudando:** testes automatizados, Spring Security e Cloud.
-
 <p>
   <img src="https://img.shields.io/badge/Foco-Back--End-8A2BE2?style=flat-square" alt="Foco: Back-End" />
   <img src="https://img.shields.io/badge/Core-APIs%20REST-2E8B57?style=flat-square" alt="Core: APIs REST" />
