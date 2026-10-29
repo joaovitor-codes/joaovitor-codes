@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End;Node.js+%7C+NestJS+%7C+Prisma;Java+%7C+Spring+Boot;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o" alt="Typing SVG" />
 </a>
 
-APIs REST, modelagem de dados e arquitetura de back-end. Recife – PE.
+APIs REST, modelagem de dados e arquitetura de back-end.
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-452852278" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:jv.vsl.2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
